@@ -1,0 +1,53 @@
+admin or student
+
+login
+
+dashboard(student portal)
+-navigation bar
+-profile(account settings)
+-logout
+
+dashboard/subject/
+subject tiles-english, maths, science, ict, history
+
+-study material page(student)
+-download notes, videos, hw links-hw link page
+-submition(shows deadline)
+
+-calendar
+
+-examination
+
+dashboard(staff portal)
+-navigation bar
+-account settings/student portal
+-profile
+-logout
+
+
+subject tiles-english, maths, science, ict, history
+services tiles-calender, examination, results, forum
+
+study material page(student)
+-upload notes, upload videos, hw links
+
+-hw link page
+-submition(shows deadline)
+
+-calendar
+
+**profile page/accounts page
+**calender
+**results page
+**lecture material page (1.downloading\2.uploading)
+**hw submission and download submission
+**examination page
+
+-calender
+
+rodrigo-dashboard for student and admin
+neha-login and profile/account setting
+kaveeshan-study material page-student and staff
+ashintha-hw submission-upload/download
+dulmi-results page and examination page
+sanduni-calender
